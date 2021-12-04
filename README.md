@@ -7,7 +7,7 @@ StdID | Name
 
 ## Mohammad Dursham ##
 
-
+I am doing my Bachelor of Science in Computer Science from PAF-KIET (Pakistan Air Force - Karachi Institute of Economics & Technology). I am competent in Programming Languages such as C#, PHP,JAVASCRIPT, TYPESCRIPT, HTML/ CSS, JAVA, SQL, PYTHON. and I am quite good on platforms such as .Net Framework, Ionic Framework, Angular (7) + Firebase.
 
 ## Muhammad Azhar ##
 
